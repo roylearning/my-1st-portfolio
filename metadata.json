@@ -1,0 +1,6 @@
+{
+  "name": "Mainframe — Creative Agency",
+  "description": "Interactive hero landing page for creative agency Mainframe featuring mouse-scrubbed background video and A.R.I.A interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
