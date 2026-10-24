@@ -140,7 +140,7 @@ export default function App() {
       {/* CHARACTER VIDEO — full character, no cropping, shifted right */}
       <video
         ref={videoRef}
-        src="/assets/character.mp4"
+        src={`${import.meta.env.BASE_URL}assets/character.mp4`}
         muted
         playsInline
         preload="auto"
